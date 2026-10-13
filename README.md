@@ -21,7 +21,7 @@ Alterações concluídas devem ser publicadas no Pages. O workflow publica main 
 Cliente: https://crmplusoficina-star.github.io/restaurante/
 Atendimento: https://crmplusoficina-star.github.io/restaurante-atendimento/
 Cozinha: https://crmplusoficina-star.github.io/restaurante-cozinha/
-Caixa: https://crmplusoficina-star.github.io/restaurante-caixa/
+Caixa: https://crmplusoficina-star.github.io/--restaurante-caixa/
 
 Protótipo local. Todos os Pages usam a mesma origem e compartilham localStorage entre abas deste navegador. As chaves e os formatos de comanda existentes foram preservados. Ao reabrir uma mesa, uma nova sessão preserva os recebimentos anteriores.
 
